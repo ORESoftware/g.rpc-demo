@@ -1,0 +1,5 @@
+.ores/
+
+# Repository-local temporary data and authorized Git worktrees
+tmp/
+temp/
